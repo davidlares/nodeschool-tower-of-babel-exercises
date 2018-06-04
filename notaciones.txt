@@ -1,0 +1,11 @@
+Babel
+---
+	Installing BabelJS
+
+	 	npm install -g babel-cli
+
+	New Commands
+	 	
+	 	- babel
+	 	- babel-node
+
