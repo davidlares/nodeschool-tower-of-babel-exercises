@@ -1,15 +1,11 @@
-## DavidBabel
+## Tower of Babel
 
- Workshop de ejercicios JS basados en el ES6 a traves del uso de babel-cli (BabelJS) como traspilador de codigo. Manejo de los nuevos features de Javascript para la fecha.
- 
- Parte de la serie de Workshops de NodeSchool
+Workshop on ES6-based JS exercises using Babel-Cli (BabelJS) as a code transpiler—handling of the latest JavaScript features.
 
-## Créditos
-- [David E Lares S](https://twitter.com/@davidlares3)
+Part of the NodeSchool Workshop Series
 
-## NodeSchool Workshop
-- https://github.com/yosuke-furukawa/tower-of-babel
+## Credits
+[David Lares S](https://davidlares.com)
 
-## Licencia
-
+## License
 [MIT](https://opensource.org/licenses/MIT)
